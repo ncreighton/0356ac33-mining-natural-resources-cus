@@ -1,2 +1,28 @@
-# 0356ac33-mining-natural-resources-cus
-Stop chasing feedback across scattered emails, WhatsApp groups, and site reports—your mining operation's most valuable improvement ideas are getting buried.  This Notion template centralizes every customer, field worker, and stakeholder feature request into a single, automated board. Replace messy spreadsheets with a structured system that prioriti
+# Mining & Natural Resources Customer Feedback and Feature Request Board Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A4gzcLlf6Qe00fQ8d0k0F)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A4gzcLlf6Qe00fQ8d0k0F)
+
